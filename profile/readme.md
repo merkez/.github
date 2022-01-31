@@ -7,6 +7,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [hot config reload with os signal](https://mrturkmen.com/posts/hot-reload-with-os-signals/)
+- [packer: build custom images on cloud and local](https://mrturkmen.com/posts/build-with-packer/)
+- [fail2ban: block ssh bruteforce attacks](https://mrturkmen.com/posts/fail2ban/)
+- [Deploy with Ansible on CI/CD](https://mrturkmen.com/posts/deploy-with-ansible/)
+- [Introduction to Ansible - Handwritten Notes](https://mrturkmen.com/posts/introduction-to-ansible-notes/)
+- [Download Youtube Playlists and Release through Github Actions [ CI/CD ]](https://mrturkmen.com/posts/download-release-youtube-playlists/)
+- [Latex with Github Actions](https://mrturkmen.com/posts/build-release-latex/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
