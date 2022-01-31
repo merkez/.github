@@ -1,0 +1,20 @@
+name: Latest blog post workflow
+on: 
+    schedule:
+        - cron: '0 1 * * *' #Runs at 01:00 UTC every day.
+        
+    workflow_dispatch: # enable manual run
+      inputs:
+        git-ref:
+          description: Git Ref (Optional)
+          required: false    
+jobs: 
+    update-readme-with-blog: 
+        name: Update this repo's README with latest blog posts
+        runs-on: ubuntu-latest
+        steps: 
+            - uses: actions/checkout@v2
+            - uses: gautamkrishnar/blog-post-workflow@master
+              with: 
+                max_post_count: "7"
+                feed_list: "https://mrturkmen.com/index.xml"
