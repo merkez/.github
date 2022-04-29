@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://twitter.com/drroot_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="drroot_" height="30" width="40" /></a>
 <a href="https://instagram.com/gistsinit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gistsinit" height="30" width="40" /></a>
-<a href="https://mrturkmen.com/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mrturkmen.com/index.xml" height="30" width="40" /></a>
 </p>
 
 
