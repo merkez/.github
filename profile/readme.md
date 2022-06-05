@@ -2,7 +2,7 @@
 <h3 align="center">"Merkez" means center in Turkish</h3>
 
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Local to Global](https://mrturkmen.com/posts/cloudflare-tunneling/)
 - [Automated complain messages to a company !](https://mrturkmen.com/posts/automation-for-complain/)
