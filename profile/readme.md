@@ -4,13 +4,13 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [cherry-pick: re-build git history](https://mrturkmen.com/posts/cherry-pick/)
 - [cloudflare workers: add auth to free Gitbook space](https://mrturkmen.com/posts/cloudflare-workers/)
 - [Local to Global](https://mrturkmen.com/posts/cloudflare-tunneling/)
 - [Automated complain messages to a company !](https://mrturkmen.com/posts/automation-for-complain/)
 - [hot config reload with os signal](https://mrturkmen.com/posts/hot-reload-with-os-signals/)
 - [packer: build custom images on cloud and local](https://mrturkmen.com/posts/build-with-packer/)
 - [fail2ban: block ssh bruteforce attacks](https://mrturkmen.com/posts/fail2ban/)
-- [Deploy with Ansible on CI/CD](https://mrturkmen.com/posts/deploy-with-ansible/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
