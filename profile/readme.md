@@ -13,8 +13,8 @@
 - [fail2ban: block ssh bruteforce attacks](https://mrturkmen.com/posts/fail2ban/)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://join.slack.com/t/mrkzi/shared_invite/zt-1nf7rfm6p-~VXAEb2wSgmSSa06vhupSA"><img align="center" src="https://user-images.githubusercontent.com/13614433/212467169-f0272001-3072-4124-8f45-df6b5e9f21b4.png" alt="mrkzi" height="30" width="30"/></a>
 <a href="https://twitter.com/drroot_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="drroot_" height="30" width="40" /></a>
 <a href="https://instagram.com/gistsinit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gistsinit" height="30" width="40" /></a>
 </p>
