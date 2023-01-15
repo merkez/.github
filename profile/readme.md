@@ -4,13 +4,13 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [automate: run github ci/cd through slack slash command](https://mrturkmen.com/posts/automate-ci-cd-with-slack-command/)
 - [cherry-pick: re-build git history](https://mrturkmen.com/posts/cherry-pick/)
 - [cloudflare workers: add auth to free Gitbook space](https://mrturkmen.com/posts/cloudflare-workers/)
 - [cloudflare tunneling: serve local like not local](https://mrturkmen.com/posts/cloudflare-tunneling/)
 - [github-actions: complain messages to a company in automated way](https://mrturkmen.com/posts/automation-for-complain/)
 - [go[channels]: hot config reload with os signal](https://mrturkmen.com/posts/hot-reload-with-os-signals/)
 - [packer: build custom images on cloud and local](https://mrturkmen.com/posts/build-with-packer/)
-- [fail2ban: block ssh bruteforce attacks](https://mrturkmen.com/posts/fail2ban/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
