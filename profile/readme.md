@@ -4,13 +4,13 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [rejection](https://mrturkmen.com/posts/rejection/)
 - [brief intro on DO-178; safety critical software development](https://mrturkmen.com/posts/safety-critical-software/)
 - [decorators in python with examples](https://mrturkmen.com/posts/decorators-in-python/)
 - [from interview question to enlightenment: metaclasses in python](https://mrturkmen.com/posts/metaclasses-python/)
 - [cloudflare tunneling: serve local SSH service without PUBLIC IP](https://mrturkmen.com/posts/tunnelling-to-local-ssh-service/)
 - [automate: run github ci/cd through slack slash command](https://mrturkmen.com/posts/automate-ci-cd-with-slack-command/)
 - [cherry-pick: re-build git history](https://mrturkmen.com/posts/cherry-pick/)
-- [cloudflare workers: add auth to free Gitbook space](https://mrturkmen.com/posts/cloudflare-workers/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
