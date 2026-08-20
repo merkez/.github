@@ -4,13 +4,13 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Headroom&#39;u kurdum, denedim, kaldırdım](https://mrturkmen.com/posts/headroom-denemesi/)
 - [Nedir bu Claude turşusu?](https://mrturkmen.com/posts/nedir-bu-claude-tursusu/)
 - [Go ile Sanal Ortam Orkestrasyonu](https://mrturkmen.com/posts/orchestrating-virtual-hub-in-go/)
 - [rejection](https://mrturkmen.com/posts/rejection/)
 - [brief intro on DO-178; safety critical software development](https://mrturkmen.com/posts/safety-critical-software/)
 - [decorators in python with examples](https://mrturkmen.com/posts/decorators-in-python/)
 - [from interview question to enlightenment: metaclasses in python](https://mrturkmen.com/posts/metaclasses-python/)
-- [cloudflare tunneling: serve local SSH service without PUBLIC IP](https://mrturkmen.com/posts/tunnelling-to-local-ssh-service/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
